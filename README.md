@@ -8,3 +8,5 @@ L’ensemble de ces services impliquent la plupart du temps une décentralisatio
 La maîtrise des services de Cloud Computing est devenue une nécessité et tend fortement à devenir un domaine d’expertise à part entière.
 
 Dans quelle mesure les offres gratuites peuvent elles être consommées et à qui s’adressent elles ?
+
+(public version)
